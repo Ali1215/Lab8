@@ -19,7 +19,7 @@ public class CustomListTest {
      */
     public CustomList MockCityList() {
         list = new CustomList(null, new ArrayList<>());
-        return list;
+        return list; 
     }
 
     /**
